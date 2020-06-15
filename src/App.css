@@ -36,3 +36,21 @@
     transform: rotate(360deg);
   }
 }
+
+.flex-container {
+  display: flex;
+  justify-content: space-around;
+}
+
+.flex-image {
+  display: flex;
+}
+.flex-content {
+  display: flex;
+  align-items: center;
+  flex-direction: column;
+}
+.username {
+  font-family: Arial, Helvetica, sans-serif;
+  color: chocolate;
+}
